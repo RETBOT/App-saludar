@@ -4,4 +4,4 @@ En este proyecto de React, se han utilizado los Props de React para pasar inform
 
 En cada componente, se han definido los Props que se necesitan para su correcto funcionamiento y se han recibido a través de la función que representa al componente. De esta forma, se puede enviar información específica a cada uno de los componentes, como datos de usuario, mensajes, imágenes, entre otros.
 
-![img1](https://github.com/RETBOT/App-saludar/img1.png)
+![img1](https://github.com/RETBOT/App-saludar/blob/master/img1.png)
