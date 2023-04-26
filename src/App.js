@@ -4,14 +4,16 @@ import Saludar from './components/Saludar';
 
 function App() {
   const user = {
-    //nombre: "RETBOT",
+    nombre: "RETBOT",
     edad: "23",
     color: "verde"
   }
 
   const saludarfn = (nombre, edad) => {
     //console.log("Hola "+nombre+" tiene "+edad+" años.");
-    console.log(`Hola ${nombre} tiene ${edad} años}`);
+    const saludo = `Hola ${nombre} tiene ${edad} años`; 
+    console.log(saludo);
+    alert(saludo);
   }
 
   return (
